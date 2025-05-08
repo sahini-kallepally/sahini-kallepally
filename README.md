@@ -37,8 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahini-kallepally&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahini-kallepally" alt="GitHub Streak" />
 </p>
 
 ---
