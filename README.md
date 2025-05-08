@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sahini Kallepally</h1>
+<h1 align="center">I'm Sahini Kallepally</h1>
 <h3 align="center">Python Developer | Aspiring Data Scientist | Data Enthusiast</h3>
 
 <p align="center">
